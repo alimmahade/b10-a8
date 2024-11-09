@@ -1,0 +1,27 @@
+[
+    {
+      "category_name": "Smartphone",
+      "id": 101,
+      "slug": "smartphone-101"
+    },
+    {
+      "category_name": "Laptop",
+      "id": 102,
+      "slug": "laptop-102"
+    },
+    {
+      "category_name": "Smartwatch",
+      "id": 103,
+      "slug": "smartwatch-103"
+    },
+    {
+      "category_name": "Camera",
+      "id": 106,
+      "slug": "camera-106"
+    },
+    {
+      "category_name": "Headphones",
+      "id": 100      
+    }
+  ]
+  

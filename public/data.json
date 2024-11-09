@@ -1,0 +1,204 @@
+[
+  {
+    "product_id": 109,
+    "product_title": "Asus ROG Zephyrus G14",
+    "product_image": "https://i.ibb.co.com/4KXx58W/asus-rog-zephyrus.png",
+    "category": "Laptop",
+    "price": 1799.99,
+    "description": "The Asus ROG Zephyrus G14 is a gaming laptop with a powerful AMD Ryzen 9 processor and NVIDIA GeForce RTX 3060 GPU for top-tier performance.",
+    "specifications": [
+      " * 14-inch FHD display, 120Hz refresh rate",
+      " * AMD Ryzen 9 5900HS",
+      " * 16GB RAM",
+      " * 1TB SSD",
+      " * NVIDIA GeForce RTX 3060"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 110,
+    "product_title": "Microsoft Surface Laptop 4",
+    "product_image": "https://i.ibb.co.com/XjqwJPd/uysib-X0-S-AC-SL1280.jpg",
+    "category": "Laptop",
+    "price": 1299.99,
+    "description": "The Microsoft Surface Laptop 4 offers high performance in a sleek design, featuring a stunning PixelSense touchscreen display.",
+    "specifications": [
+      " * 13.5-inch PixelSense touchscreen",
+      " * Intel Core i5-1135G7",
+      " * 8GB RAM",
+      " * 256GB SSD"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 111,
+    "product_title": "Lenovo ThinkPad X1 Carbon Gen 9",
+    "product_image": "https://i.ibb.co.com/PDxJH86/lenovo-thinkpad-x1-carbon.jpg",
+    "category": "Laptop",
+    "price": 1899.99,
+    "description": "The Lenovo ThinkPad X1 Carbon Gen 9 is a lightweight, durable business laptop with exceptional performance and a long battery life.",
+    "specifications": [
+      " * 14-inch WQXGA display",
+      " * Intel Core i7-1165G7",
+      " * 16GB RAM",
+      " * 512GB SSD",
+      " * Intel Iris Xe Graphics"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 112,
+    "product_title": "Acer Predator Helios 300",
+    "product_image": "https://i.ibb.co.com/TRVpdK1/acer-predator-helios300.webp",
+    "category": "Laptop",
+    "price": 1599.99,
+    "description": "The Acer Predator Helios 300 is a powerful gaming laptop with an Intel Core i7 processor and NVIDIA GeForce RTX 3060 GPU, designed for high-end gaming and productivity.",
+    "specifications": [
+      " * 15.6-inch FHD 144Hz display",
+      " * Intel Core i7-11800H",
+      " * 16GB RAM",
+      " * 512GB SSD",
+      " * NVIDIA GeForce RTX 3060"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },  
+  {
+      "product_id": 101,
+      "product_title": "iPhone 15",
+      "product_image": "https://i.ibb.co.com/YykJgW2/iphone-15.webp",
+      "category": "Smartphone",
+      "price": 999.99,
+      "description": "The iPhone 15 features the latest in Apple technology with an A16 chip and enhanced camera system.",
+      "specifications": [
+        " * 6.1-inch OLED display",
+        " * A16 Bionic chip",
+        " * Dual-camera system",
+        " * 128GB Storage"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+        "product_id": 108,
+        "product_title": "Samsung Galaxy S23 Ultra",
+        "product_image": "https://i.ibb.co.com/rcX0KgN/Galaxy-S23-Ultra-Gree.jpg",
+        "category": "Smartphone",
+        "price": 1199.99,
+        "description": "The Samsung Galaxy S23 Ultra boasts a 200MP camera, Snapdragon 8 Gen 2 chipset, and a 6.8-inch Dynamic AMOLED display for a premium smartphone experience.",
+        "specifications": [
+          " * 6.8-inch Dynamic AMOLED 2X display",
+          " * Snapdragon 8 Gen 2",
+          " * 12GB RAM",
+          " * 1TB Storage option",
+          " * 200MP main camera"
+        ],
+        "availability": true,
+        "rating": 4.9
+      },
+    {
+      "product_id": 103,
+      "product_title": "Samsung Galaxy Watch 6",
+      "product_image": "https://i.ibb.co.com/XYPvWHH/galaxy-watch6.webp",
+      "category": "Smartwatch",
+      "price": 349.99,
+      "description": "Stay connected and track your health with the Samsung Galaxy Watch 6. Offers sleep tracking, ECG, and GPS.",
+      "specifications": [
+        " * 1.4-inch Super AMOLED display",
+        " * GPS + Heart Rate Monitoring",
+        " * Water-resistant up to 50 meters",
+        " * Advanced sleep tracking"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+        "product_id": 122,
+        "product_title": "Apple Watch Series 8",
+        "product_image": "https://i.ibb.co.com/sHcnT9J/apple-watch-series8.png",
+        "category": "Smartwatch",
+        "price": 399.99,
+        "description": "The Apple Watch Series 8 brings new health features, including body temperature sensing, improved crash detection, and enhanced battery life.",
+        "specifications": [
+          " * 41mm and 45mm display sizes",
+          " * Always-On Retina display",
+          " * Body temperature sensing",
+          " * Crash detection",
+          " * watchOS 9 with improved health features"
+        ],
+        "availability": true,
+        "rating": 4.8
+      },
+    
+    {
+      "product_id": 106,
+      "product_title": "Canon EOS R5",
+      "product_image": "https://i.ibb.co.com/5GtGhWz/canon-eos-r5-full-frame.webp",
+      "category": "Camera",
+      "price": 3899.99,
+      "description": "The Canon EOS R5 is a professional-grade mirrorless camera with exceptional 8K video capabilities and a 45MP sensor.",
+      "specifications": [
+        " * 45MP Full-frame CMOS sensor",
+        " * 8K video recording",
+        " * Dual Pixel CMOS AF",
+        " * 10 fps continuous shooting"
+      ],
+      "availability": false,
+      "rating": 4.9
+    },
+    {
+        "product_id": 120,
+        "product_title": "Sony Alpha 7 IV",
+        "product_image": "https://i.ibb.co.com/h8qdBwK/Sony-A7-IV.webp",
+        "category": "Camera",
+        "price": 2499.99,
+        "description": "The Sony Alpha 7 IV is a full-frame mirrorless camera with 33MP resolution, 4K video recording, and superior autofocus performance, ideal for both photographers and videographers.",
+        "specifications": [
+          " * 33MP Full-frame Exmor R CMOS sensor",
+          " * 5-axis in-body image stabilization",
+          " * 4K 60p video recording",
+          " * Fast Hybrid AF with 759 phase-detection points",
+          " * 15+ stops dynamic range"
+        ],
+        "availability": true,
+        "rating": 4.8
+      },
+    {
+        "product_id": 107,
+        "product_title": "Dell XPS 13",
+        "product_image": "https://i.ibb.co.com/Q8dDxm0/Dell-XPS13-Plus.webp",
+        "category": "Laptop",
+        "price": 1249.99,
+        "description": "The Dell XPS 13 is a sleek and powerful ultrabook featuring a high-resolution 4K display and Intel’s latest Core i7 processor.",
+        "specifications": [
+          " * 13.4-inch 4K UHD+ InfinityEdge display",
+          " * Intel Core i7-12700U",
+          " * 16GB RAM",
+          " * 512GB SSD"
+        ],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": 123,
+        "product_title": "HP Spectre x360 14",
+        "product_image": "https://i.ibb.co.com/fMKjkYM/HP-Spectre-x360.jpg",
+        "category": "Laptop",
+        "price": 1499.99,
+        "description": "The HP Spectre x360 14 is a premium 2-in-1 laptop with an elegant design and a stunning OLED display, perfect for creators and professionals.",
+        "specifications": [
+          " * 13.5-inch OLED display",
+          " * Intel Core i7-1165G7",
+          " * 16GB RAM",
+          " * 512GB SSD",
+          " * Intel Iris Xe Graphics"
+        ],
+        "availability": true,
+        "rating": 4.7
+      }
+      
+  ]
+  
